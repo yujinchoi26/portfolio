@@ -11,5 +11,5 @@ George Mason University
 
 ### Projects
 
-[View the Project Manual][Project Proposal _Yujin Choi.pdf](https://github.com/user-attachments/files/24555541/Project.Proposal._Yujin.Choi.pdf)
-[View the Project Manual][R Studio project_Yujin_Choi.pdf](https://github.com/user-attachments/files/24555544/R.Studio.project_Yujin_Choi.pdf)
+![View the Project Manual][Project Proposal _Yujin Choi.pdf](https://github.com/user-attachments/files/24555541/Project.Proposal._Yujin.Choi.pdf)
+![View the Project Manual][R Studio project_Yujin_Choi.pdf](https://github.com/user-attachments/files/24555544/R.Studio.project_Yujin_Choi.pdf)
