@@ -1,4 +1,4 @@
-# Functional Application Specialist -    Related ProjectS
+# Functional Application Specialist -    Related Projects
 
 ### Education
 
