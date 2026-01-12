@@ -1,3 +1,7 @@
 title: Yujin Choi
-logo: /assets/photo.png
+<header>
+  <a href="{{ '/' | relative_url }}">
+    <img src="{{ site.logo | relative_url }}" alt="Logo" style="height: 50px;">
+  </a>
+</header>
 theme: jekyll-theme-minimal
