@@ -13,3 +13,4 @@ George Mason University
 R Studio 
 
 Project Proposal 
+![Project Proposal _Yujin Choi.pdf](https://github.com/user-attachments/files/24555828/Project.Proposal._Yujin.Choi.pdf)
