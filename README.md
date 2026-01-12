@@ -13,4 +13,3 @@ George Mason University
 R Studio 
 
 Project Proposal 
-
